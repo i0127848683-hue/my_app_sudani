@@ -1,6 +1,6 @@
 {
-  "show_dialog": true,
+  "show_announcement": true,
+  "announcement_id": 101,
   "title": "تهنئة بالعيد",
-  "message": "لكل المستخدمين تطبيق دليل المواقع كل عام وأنتم بخير",
-  "version_id": 1
+  "body": "لكل طلاب ذاكر كل عام وانتم بخير"
 }
